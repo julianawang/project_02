@@ -1,0 +1,6 @@
+Designator,Value,Package,Qty,Manufacturer,Description
+FUD1-FUD3,FIDUCIAL,FIDUCIAL_40MIL,3,n/a,Fiducials
+U1,POCKETBEAGLE,POCKETBEAGLE,1,BeagleBoard,PocketBeagle
+U$1,USB-A_FEMALE,USB-A_FEMALE,1,Würth Elektronik,USB Type A Hub
+U$2,WIRECONNECTOR,WIRECONNECTOR,1,AVX,LED Wire Strip Connector
+,,,,,
