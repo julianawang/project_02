@@ -1,5 +1,5 @@
 # project_02 - PCB Board Design for LED Music Visualizer
-A PCB board design based off of Project 01, a LED music visualizer:
+A PCB board design based off of Project 01, a board that allows an LED strip to react to a music recording:
 
 https://github.com/julianawang/project_01
 
